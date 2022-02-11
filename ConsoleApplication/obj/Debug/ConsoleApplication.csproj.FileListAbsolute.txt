@@ -1,0 +1,7 @@
+D:\Github\csharp-inicio\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\Github\csharp-inicio\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\Github\csharp-inicio\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\Github\csharp-inicio\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.SuggestedBindingRedirects.cache
+D:\Github\csharp-inicio\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Github\csharp-inicio\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\Github\csharp-inicio\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
